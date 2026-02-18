@@ -1,0 +1,11 @@
+WINDOWS COMMAND PROMPTS 
+
+--> whoami - Tells which user account is currently running the terminal.
+--> hostname - Shows the computer name on the network.
+--> dir - Shows all files and folders in the current location.
+--> dir /a - show all the hidden files and folders
+-->cd Desktop - change the directory ( or folder )
+cd .. - move to the previous node
+cd \ - move to the start of the first directory 
+--> cls - clear the screen of the terminal
+
