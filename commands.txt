@@ -8,4 +8,8 @@ WINDOWS COMMAND PROMPTS
 cd .. - move to the previous node
 cd \ - move to the start of the first directory 
 --> cls - clear the screen of the terminal
+--> mkdir - create a folder in ur pc ( mkdir ("folder name")
+--> rmdir - remove a folder from ur pc 
+--> type - used to view the files without opening it manually ( we can view it in command prompt itself )
+--> 
 
